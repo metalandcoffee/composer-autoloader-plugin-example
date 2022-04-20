@@ -1,0 +1,15 @@
+{
+    "name": "metalandcoffee/plugin-example",
+    "authors": [
+        {
+            "name": "Metal & Coffee",
+            "email": "ebonie@metalandcoffee.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"classmap": [
+			"inc"
+		]
+	}
+}

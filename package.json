@@ -1,0 +1,15 @@
+{
+  "name": "plugin-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:env": "wp-env start",
+    "stop:env": "wp-env stop"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/env": "^4.5.0"
+  }
+}
